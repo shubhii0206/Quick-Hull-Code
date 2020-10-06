@@ -1,4 +1,4 @@
-# Quick-Hull-Code
+# Quick-Hull Code
 
 # Description
 Cpp Code to implement Quick Hull algorithm to find out vertices of the convex polygon that conatins all given points.
